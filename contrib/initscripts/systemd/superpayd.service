@@ -1,0 +1,11 @@
+[Unit]
+Description=Superpay daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=superpay
+ExecStart=/opt/superpay/superpayd
+
+[Install]
+WantedBy=multi-user.target

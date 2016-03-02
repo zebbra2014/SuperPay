@@ -1,0 +1,5 @@
+superpay-qt usr/bin
+share/pixmaps/superpay32.xpm usr/share/pixmaps
+share/pixmaps/superpay80.xpm usr/share/pixmaps
+debian/superpay-qt.desktop usr/share/applications
+debian/superpay-qt.protocol usr/share/kde4/services/

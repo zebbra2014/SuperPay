@@ -1,0 +1,2 @@
+debian/bin/superpayd usr/bin
+src/superpayd usr/lib/superpay

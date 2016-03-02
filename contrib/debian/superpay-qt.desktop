@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SuperPay
+Comment=SuperPay P2P Cryptocurrency
+Comment[ru]=SuperPay, P2P криптовалюта
+Comment[fr]=SuperPay, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SuperPay, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/superpay-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/superpay80.xpm
+MimeType=x-scheme-handler/superpay;
+Categories=Office;
